@@ -1,0 +1,89 @@
+
+body {
+	background-color: #bbbfca;
+	box-sizing: border-box;
+}
+.container {
+	margin: 50px 50px;
+	display: flex;
+	flex-direction: row;
+	height: 100%;
+	
+}
+
+.game {
+	min-width: 60%;
+	height: 800px;
+	background-color: #686d76;
+	border-radius: 5%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 3px solid rgba(0, 0, 0, 0.507);
+}
+
+.cube {
+	height: 100px;
+	width: 100px;
+	background-color: #c56183;
+	border-radius: 5%;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.432);
+}
+
+.side {
+	width: 40%;
+	display: flex;
+	flex-direction: column;
+	margin: 0 40px;
+}
+
+.hp {
+	height: 200px;
+	line-height: 100px;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: 'Coda Caption', sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #2e2729;
+}
+
+.hpbar {
+	background-color: #6baa65;
+	height: 60px;
+	border-radius: 5px;
+	width: 100%;
+}
+
+.keys {
+	line-height: 100px;
+	height: 220px;
+	padding: 40px 40px;
+	margin-top: 60px;
+}
+
+button {
+	height: 100px;
+	width: 100px;
+	font-size: 50px;
+	margin: 20px 20px;
+	background-color: #f8f1f1;
+	border-radius: 5px;
+}
+
+button:hover {
+	background-color: #6a6d75;
+}
+
+button
+:active,
+:focus {
+	outline: 0;
+}
+
+.firstline, .secondline {
+	display: flex;
+	justify-content: center;
+}
