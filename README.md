@@ -10,9 +10,5 @@
 </ul>
 
 <h2>preview</h2>
-<br>
-![rsz_171b5f356-ef7d-465e-95b1-fa2124de3d25](https://user-images.githubusercontent.com/76999282/132662950-de8e6fac-565a-4708-a7bf-5e02ce0c4162.png)
 
-
-
-
+Screenshot 2021-09-09 at 11 44 40![image](https://user-images.githubusercontent.com/76999282/132663363-5e37bd63-97ce-4588-bac3-6da21b13f773.png)
